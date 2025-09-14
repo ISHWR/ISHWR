@@ -1,6 +1,6 @@
 # 👋 Hello Dosto, I'm Ishwar Bhumbak  
 
-💼 **DevOps Engineer** | ☁️ Cloud Enthusiast | 🚀 Automation Lover  
+💼 DevOps Engineer | ☁️ Cloud Infrastructure Specialist | 🔐 Security & Automation
  
 ---
 
