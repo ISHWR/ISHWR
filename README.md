@@ -21,7 +21,7 @@ Specialized in delivering scalable, secure, and automated solutions across **gov
 `AWS` | `Azure` | `Docker` | `Kubernetes` | `Terraform` | `Ansible` | `Jenkins` | `GitHub Actions` | `Bitbucket Pipelines`  
 
 **Languages & Scripting:**  
-`Python` | `YAML` | `Shell`  
+`YAML` | `Shell`  
 
 **Version Control & CI/CD:**  
 `Git` | `GitHub` | `GitLab` | `Bitbucket`  
@@ -35,7 +35,7 @@ Specialized in delivering scalable, secure, and automated solutions across **gov
 
 ### 🔹 DevOps Engineer @ **Insphere Solution Pvt. Ltd. (Delhi)**  
 📆 *March 2022 – Present*  
-- Delivered **40+ government & private sector projects** with secure & scalable infra.  
+- Delivered **20+ government & private sector projects** with secure & scalable infra.  
 - Designed & automated infra on **AWS & Azure** (VMs, VPC, Load Balancer, App Gateway, AKS, WAF).  
 - Built & maintained **CI/CD pipelines** (Jenkins, GitHub Actions, Bitbucket).  
 - Deployed secure containerized apps using **Docker & Kubernetes**.  
