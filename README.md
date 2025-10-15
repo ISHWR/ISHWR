@@ -5,7 +5,7 @@
 ---
 
 ## 🚀 About Me  
-DevOps Engineer with **5+ years of experience** in automating infrastructure, building **CI/CD pipelines**, and deploying **cloud solutions** on AWS & Azure.  
+DevOps Engineer with **4+ years of experience** in automating infrastructure, building **CI/CD pipelines**, and deploying **cloud solutions** on AWS & Azure.  
 Specialized in delivering scalable, secure, and automated solutions across **government and private sector projects**.  
 
 ⚡ Passionate about:  
@@ -43,10 +43,11 @@ Specialized in delivering scalable, secure, and automated solutions across **gov
 - Set up **monitoring & alerting** with Prometheus + Grafana.  
 - Ensured **cloud security** using AWS WAF, GuardDuty, Inspector, Shield.  
 
-### 🔹 Cloud Engineer @ **3G Solution Pvt. Ltd. (Client: Newgen Software, Noida)**  
+### 🔹 System Administrator @ **3G Solution Pvt. Ltd. (Client: Newgen Software, Noida)**  
 📆 *July 2019 – Feb 2022*  
+- On-premise server management & migration support. 
 - Managed **AWS & Azure dashboards**, alerts, billing, and L1 infra support.  
-- On-premise server management & migration support.  
+ 
 
 ### 🔹 Engineer @ **IMSI India Pvt. Ltd. (Client: HCL Technologies, Noida)**  
 📆 *Jan 2018 – Jun 2019*  
